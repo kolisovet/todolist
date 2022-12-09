@@ -1,7 +1,4 @@
 import React from 'react';
-// Данные - Props
-// title
-// tasks
 
 type TodoListPropsType = {
     title: string
